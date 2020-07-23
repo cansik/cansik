@@ -7,7 +7,4 @@ Computer Scientist / Interaction Designer / Immersive Artist
 Currently working as Research Associate @ Zurich University of the Arts
 ```
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=cansik" />
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansik&hide=C#" />
--->
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=cansik&show_icons=true&hide_title=true&hide_border=true" />](https://github.com/cansik)
