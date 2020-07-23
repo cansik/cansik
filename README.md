@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Florian!
 
+[![awards](https://badgen.net/badge/git/awards/green?icon=github)](http://git-awards.com/users/cansik) [![instagram](https://badgen.net/badge/icon/instagram?icon=https://raw.githubusercontent.com/cansik/cansik/master/icons8-instagram.svg&label)](https://www.instagram.com/bilderbroox/)
+
+```
+Computer Scientist / Interaction Designer / Immersive Artist
+Currently working as Research Associate @ Zurich University of the Arts
+```
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cansik" />
 <!--
-**cansik/cansik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansik&hide=C#" />
 -->
