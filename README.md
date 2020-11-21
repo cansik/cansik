@@ -8,5 +8,4 @@ Currently working as Research Associate @ Zurich University of the Arts
 ```
 
 [<img align="left" src="https://github-readme-stats.vercel.app/api?username=cansik&show_icons=true&hide_title=true&hide_border=true" />](https://github.com/cansik)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cansik&layout=compact&langs_count=8&hide=javascript,html,css)
+[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansik&layout=compact&langs_count=8&hide=javascript,html,css" />](https://github.com/cansik)
