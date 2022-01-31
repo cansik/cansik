@@ -1,6 +1,7 @@
 ### Hi, I'm Florian!
 
-[![awards](https://raw.githubusercontent.com/cansik/cansik/master/images/gitawards.svg)](http://git-awards.com/users/cansik) [![instagram](https://badgen.net/badge/icon/instagram?icon=https://raw.githubusercontent.com/cansik/cansik/master/images/instagram.svg)](https://www.instagram.com/bilderbroox/) [![behance](https://badgen.net/badge/icon/behance?icon=https://raw.githubusercontent.com/cansik/cansik/master/images/behance.svg)](https://www.behance.net/cansik)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bilderbroox/)
+[![behance](https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/cansik)
 
 ```
 Computer Scientist / Interaction Designer / Immersive Artist
